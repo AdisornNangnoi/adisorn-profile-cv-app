@@ -277,6 +277,7 @@ function App() {
           id="capabilities"
           display="flex"
           alignItems={"start"}
+          py={5}
           px={{ xs: 2, md: 10 }}
         >
           <Typography
