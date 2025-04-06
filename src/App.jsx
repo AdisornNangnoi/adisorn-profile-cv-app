@@ -415,7 +415,7 @@ function App() {
                 LET’S CONNECT
               </Typography>
               <Typography color="#C7C7C7" sx={{ mb: 1 }}>
-                Say hello at <Link color="inherit">chanintornc@sau.ac.th</Link>
+                Say hello at <Link color="inherit">s6552410001@sau.ac.th</Link>
               </Typography>
               <Typography color="#C7C7C7" sx={{ mb: 2 }}>
                 For more info, here's my{" "}
